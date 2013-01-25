@@ -1,4 +1,4 @@
-﻿[Elastica](https://github.com/ruflin/Elastica) integration in Symfony2
+test﻿[Elastica](https://github.com/ruflin/Elastica) integration in Symfony2
 
 ## Installation
 
